@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§aAdded blacklist pattern: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§cPattern already exists in blacklist: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§aRemoved blacklist pattern: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§cPattern not found in blacklist: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§eBlacklist is empty",
+  "commands.cmdfilter.blacklist.list.header": "§6=== Blacklist Patterns (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§aAdded whitelist pattern: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§cPattern already exists in whitelist: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§aRemoved whitelist pattern: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§cPattern not found in whitelist: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§eWhitelist is empty",
+  "commands.cmdfilter.whitelist.list.header": "§6=== Whitelist Patterns (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§aConfiguration reloaded",
+  "commands.cmdfilter.enable.success": "§aCommand filter enabled",
+  "commands.cmdfilter.disable.success": "§aCommand filter disabled",
+  "event.command.blocked": "§cThis command is prohibited on this server!"
+}

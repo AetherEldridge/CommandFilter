@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§aMotif ajouté à la liste noire : %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§cLe motif existe déjà dans la liste noire : %s",
+  "commands.cmdfilter.blacklist.remove.success": "§aMotif retiré de la liste noire : %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§cMotif introuvable dans la liste noire : %s",
+  "commands.cmdfilter.blacklist.list.empty": "§eLa liste noire est vide",
+  "commands.cmdfilter.blacklist.list.header": "§6=== Motifs de la liste noire (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§aMotif ajouté à la liste blanche : %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§cLe motif existe déjà dans la liste blanche : %s",
+  "commands.cmdfilter.whitelist.remove.success": "§aMotif retiré de la liste blanche : %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§cMotif introuvable dans la liste blanche : %s",
+  "commands.cmdfilter.whitelist.list.empty": "§eLa liste blanche est vide",
+  "commands.cmdfilter.whitelist.list.header": "§6=== Motifs de la liste blanche (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§aConfiguration rechargée",
+  "commands.cmdfilter.enable.success": "§aFiltre de commandes activé",
+  "commands.cmdfilter.disable.success": "§aFiltre de commandes désactivé",
+  "event.command.blocked": "§cCette commande est interdite sur ce serveur !"
+}

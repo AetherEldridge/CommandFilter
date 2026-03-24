@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§aШаблон добавлен в черный список: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§cШаблон уже существует в черном списке: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§aШаблон удален из черного списка: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§cШаблон не найден в черном списке: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§eЧерный список пуст",
+  "commands.cmdfilter.blacklist.list.header": "§6=== Шаблоны черного списка (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§aШаблон добавлен в белый список: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§cШаблон уже существует в белом списке: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§aШаблон удален из белого списка: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§cШаблон не найден в белом списке: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§eБелый список пуст",
+  "commands.cmdfilter.whitelist.list.header": "§6=== Шаблоны белого списка (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§aКонфигурация перезагружена",
+  "commands.cmdfilter.enable.success": "§aФильтр команд включен",
+  "commands.cmdfilter.disable.success": "§aФильтр команд отключен",
+  "event.command.blocked": "§cЭта команда запрещена на этом сервере!"
+}

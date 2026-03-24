@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§a블랙리스트에 패턴을 추가했습니다: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§c패턴이 이미 블랙리스트에 존재합니다: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§a블랙리스트에서 패턴을 제거했습니다: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§c블랙리스트에서 패턴을 찾을 수 없습니다: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§e블랙리스트가 비어 있습니다",
+  "commands.cmdfilter.blacklist.list.header": "§6=== 블랙리스트 패턴 (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§a화이트리스트에 패턴을 추가했습니다: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§c패턴이 이미 화이트리스트에 존재합니다: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§a화이트리스트에서 패턴을 제거했습니다: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§c화이트리스트에서 패턴을 찾을 수 없습니다: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§e화이트리스트가 비어 있습니다",
+  "commands.cmdfilter.whitelist.list.header": "§6=== 화이트리스트 패턴 (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§a구성이 다시 로드되었습니다",
+  "commands.cmdfilter.enable.success": "§a명령어 필터가 활성화되었습니다",
+  "commands.cmdfilter.disable.success": "§a명령어 필터가 비활성화되었습니다",
+  "event.command.blocked": "§c이 명령어는 이 서버에서 사용할 수 없습니다!"
+}

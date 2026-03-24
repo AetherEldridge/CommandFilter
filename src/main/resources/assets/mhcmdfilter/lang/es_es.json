@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§aPatrón añadido a la lista negra: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§cEl patrón ya existe en la lista negra: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§aPatrón eliminado de la lista negra: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§cPatrón no encontrado en la lista negra: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§eLa lista negra está vacía",
+  "commands.cmdfilter.blacklist.list.header": "§6=== Patrones de la lista negra (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§aPatrón añadido a la lista blanca: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§cEl patrón ya existe en la lista blanca: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§aPatrón eliminado de la lista blanca: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§cPatrón no encontrado en la lista blanca: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§eLa lista blanca está vacía",
+  "commands.cmdfilter.whitelist.list.header": "§6=== Patrones de la lista blanca (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§aConfiguración recargada",
+  "commands.cmdfilter.enable.success": "§aFiltro de comandos activado",
+  "commands.cmdfilter.disable.success": "§aFiltro de comandos desactivado",
+  "event.command.blocked": "§c¡Este comando está prohibido en este servidor!"
+}

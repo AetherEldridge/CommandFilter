@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§a已添加黑名单模式: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§c模式已存在于黑名单中: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§a已移除黑名单模式: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§c黑名单中未找到模式: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§e黑名单为空",
+  "commands.cmdfilter.blacklist.list.header": "§6=== 黑名单模式列表 (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§a已添加白名单模式: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§c模式已存在于白名单中: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§a已移除白名单模式: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§c白名单中未找到模式: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§e白名单为空",
+  "commands.cmdfilter.whitelist.list.header": "§6=== 白名单模式列表 (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§a配置已重新加载",
+  "commands.cmdfilter.enable.success": "§a命令过滤器已启用",
+  "commands.cmdfilter.disable.success": "§a命令过滤器已禁用",
+  "event.command.blocked": "§c该命令已被服务器禁止执行！"
+}

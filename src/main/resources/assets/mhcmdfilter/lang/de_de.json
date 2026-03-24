@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§aSchwarzlist-Muster hinzugefügt: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§cMuster existiert bereits in der Schwarzliste: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§aSchwarzlist-Muster entfernt: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§cMuster in der Schwarzliste nicht gefunden: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§eSchwarzliste ist leer",
+  "commands.cmdfilter.blacklist.list.header": "§6=== Schwarzlist-Muster (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§aWeißlist-Muster hinzugefügt: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§cMuster existiert bereits in der Weißliste: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§aWeißlist-Muster entfernt: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§cMuster in der Weißliste nicht gefunden: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§eWeißliste ist leer",
+  "commands.cmdfilter.whitelist.list.header": "§6=== Weißlist-Muster (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§aKonfiguration neu geladen",
+  "commands.cmdfilter.enable.success": "§aBefehlsfilter aktiviert",
+  "commands.cmdfilter.disable.success": "§aBefehlsfilter deaktiviert",
+  "event.command.blocked": "§cDieser Befehl ist auf diesem Server nicht erlaubt!"
+}

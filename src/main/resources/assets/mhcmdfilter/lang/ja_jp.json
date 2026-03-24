@@ -1,0 +1,20 @@
+{
+  "commands.cmdfilter.blacklist.add.success": "§aブラックリストにパターンを追加しました: %s",
+  "commands.cmdfilter.blacklist.add.failure.exists": "§cパターンは既にブラックリストに存在します: %s",
+  "commands.cmdfilter.blacklist.remove.success": "§aブラックリストからパターンを削除しました: %s",
+  "commands.cmdfilter.blacklist.remove.failure.notfound": "§cブラックリストにパターンが見つかりません: %s",
+  "commands.cmdfilter.blacklist.list.empty": "§eブラックリストは空です",
+  "commands.cmdfilter.blacklist.list.header": "§6=== ブラックリストパターン (%d) ===",
+  "commands.cmdfilter.blacklist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.whitelist.add.success": "§aホワイトリストにパターンを追加しました: %s",
+  "commands.cmdfilter.whitelist.add.failure.exists": "§cパターンは既にホワイトリストに存在します: %s",
+  "commands.cmdfilter.whitelist.remove.success": "§aホワイトリストからパターンを削除しました: %s",
+  "commands.cmdfilter.whitelist.remove.failure.notfound": "§cホワイトリストにパターンが見つかりません: %s",
+  "commands.cmdfilter.whitelist.list.empty": "§eホワイトリストは空です",
+  "commands.cmdfilter.whitelist.list.header": "§6=== ホワイトリストパターン (%d) ===",
+  "commands.cmdfilter.whitelist.list.entry": "§7%d. §f%s",
+  "commands.cmdfilter.reload.success": "§a設定を再読み込みしました",
+  "commands.cmdfilter.enable.success": "§aコマンドフィルターを有効にしました",
+  "commands.cmdfilter.disable.success": "§aコマンドフィルターを無効にしました",
+  "event.command.blocked": "§cこのコマンドはこのサーバーで禁止されています！"
+}
